@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1011368749467",
+    "firebase_url": "https://ridetj-baed0.firebaseio.com",
+    "project_id": "ridetj-baed0",
+    "storage_bucket": "ridetj-baed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011368749467:android:9e21b78c8113eb42",
+        "android_client_info": {
+          "package_name": "com.frankding.android.ridetj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011368749467-61ar6hjsu5h7eq326d8tk5tub5ncmclq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE87EfXJwQ-PCoimJG3WXWmAa5BI5Fur0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
